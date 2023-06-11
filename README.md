@@ -1,4 +1,13 @@
-# Sample-NFT-mint
-Minting an NFT using @openzeppelin 
+# Sample Hardhat Project
 
-As part of learning in LearnWeb3.io , this sample NFT minting contract is developed using openzeppelin according to ERC 721 standard
+This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+
+Try running some of the following tasks:
+
+```shell
+npx hardhat help
+npx hardhat test
+REPORT_GAS=true npx hardhat test
+npx hardhat node
+npx hardhat run scripts/deploy.js
+```
